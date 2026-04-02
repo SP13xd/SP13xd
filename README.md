@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there!
 
-<!--
-**SP13xd/SP13xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m an engineering student with a strong interest in cybersecurity.
 
-Here are some ideas to get you started:
+I’m currently learning core programming concepts and exploring the fundamentals of cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Platforms I Use:
+- Programming: Learning through YouTube and websites like CodeX  
+- Cybersecurity: TryHackMe, Hack The Box
+
+  At the moment, I’m focused on learning and improving my skills.  
+I plan to build and share different projects in the future.
+
+Hobbies: Music & gaming
